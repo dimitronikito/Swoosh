@@ -1,4 +1,4 @@
-package com.diminiki.swoosh
+package com.diminiki.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
